@@ -50,9 +50,9 @@
 ![output](/output5.png)
 
 ## Output:
-![OUTPUT](/OUTPUT.jpg)
-![OUTPUT](/OUTPUT2.jpg)
-![OUTPUT](/OUTPUT3.jpg)
+![OUTPUT](/OUTPT1.jpg)
+![OUTPUT](/OUTPT2.jpg)
+![OUTPUT](/OUTPT3.jpg)
 
 ### Name: Mohamed Nadheem N
 ### Register Number: 23014217
